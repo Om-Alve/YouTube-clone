@@ -8,4 +8,4 @@ To get started, simply download or clone the repository to your local machine. Y
 
 > git clone <repository_url>
 
-Once you have the repository on your machine, simply open the youtube.html file in your web browser to view the YouTube clone.
+Once you have the repository on your machine, simply open the index.html file in your web browser to view the YouTube clone.
